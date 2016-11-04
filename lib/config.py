@@ -1,0 +1,1 @@
+data_dir = '/u/szhai/dcgan_code/datasets/'
