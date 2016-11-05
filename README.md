@@ -4,6 +4,7 @@ requirements: Theano and Lasagne
 
 This code implements the variational contrastive divergence (VCD) in the paper.
 Usage:
+
 1. Download datasets (e.g., train 32x32.mat and test 32x32.mat http://ufldl.stanford.edu/housenumbers/), save under ./datasets
 
 2. Train a VGAN with VCD by running (gamma == \rho in the paper):
